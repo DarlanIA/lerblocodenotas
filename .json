@@ -28,10 +28,10 @@
     "capabilities": [
         {
             "type": "bot",
-            "contentUrl": "https://39c7ef74c8ebea7eade57a306f41e5.e3.environment.api.powerplatform.com/powervirtualagents/botsbyschema/cr8e5_iAsuporte/directline/token?api-version=2022-03-01-preview",
-            "supportsFiles": true,
-            "supportsFilesConsent": true,
-            "requiresIdentity": true
+        "contentUrl": "https://39c7ef74c8ebea7eade57a306f41e5.e3.environment.api.powerplatform.com/powervirtualagents/botsbyschema/cr8e5_iAsuporte/directline/token?api-version=2022-03-01-preview",
+        "supportsFiles": true,
+        "supportsFilesConsent": true,
+        "requiresIdentity": true
         }
     ]
 }
