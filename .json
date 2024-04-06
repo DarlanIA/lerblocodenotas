@@ -12,7 +12,7 @@
     },
     "icons": [
         {
-            "src": "https://content.powerapps.com/resource/makerx/static/media/emptySkillsLight.bb750c1f.svg",
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7kaamMRwndZ-FSB3EMxuveUs-WUr3PFlac2y6thKj0g&s",
             "sizes": "192x192",
             "type": "image/png"
         }
@@ -27,11 +27,11 @@
     },
     "capabilities": [
         {
-        "type": "bot",
-        "contentUrl": "https://03252f3fd7ceeee890c5eb5df53d3a.e5.environment.api.powerplatform.com/powervirtualagents/botsbyschema/cr77c_testIa/directline/token?api-version=2022-03-01-preview",
-        "supportsFiles": true,
-        "supportsFilesConsent": true,
-        "requiresIdentity": true
-    }
+            "type": "bot",
+            "contentUrl": "https://39c7ef74c8ebea7eade57a306f41e5.e3.environment.api.powerplatform.com/api/messages",
+            "supportsFiles": true,
+            "supportsFilesConsent": true,
+            "requiresIdentity": true
+        }
     ]
 }
