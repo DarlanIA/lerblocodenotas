@@ -12,18 +12,18 @@
     },
     "icons": [
         {
-            "src": "https://example.com/icon.png",
+            "src": "https://github.com/DarlanIA/lerblocodenotas/blob/main/manifest.json",
             "sizes": "192x192",
             "type": "image/png"
         }
     ],
     "name": {
-        "short": "Nome Curto",
+        "short": "Bloco de notas",
         "full": "Nome Completo"
     },
     "description": {
         "short": "Descrição Curta",
-        "full": "Descrição Completa"
+        "full": "Bloco de Notas Bot"
     },
     "capabilities": [
         {
