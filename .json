@@ -27,11 +27,11 @@
     },
     "capabilities": [
         {
-            "type": "bot",
-        "contentUrl": "https://copilotstudio.microsoft.com/environments/39c7ef74-c8eb-ea7e-ade5-7a306f41e5e3/bots/cr8e5_iAsuporte/canvas",
+        "type": "bot",
+        "contentUrl": "https://03252f3fd7ceeee890c5eb5df53d3a.e5.environment.api.powerplatform.com/powervirtualagents/botsbyschema/cr77c_testIa/directline/token?api-version=2022-03-01-preview",
         "supportsFiles": true,
         "supportsFilesConsent": true,
         "requiresIdentity": true
-        }
+    }
     ]
 }
