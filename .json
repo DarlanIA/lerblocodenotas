@@ -1,0 +1,37 @@
+{
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.7/MicrosoftTeams.schema.json",
+    "manifestVersion": "1.7",
+    "version": "1.0.0",
+    "id": "<e2ae2116-79d6-4d50-98b0-b03f0e1c151f>",
+    "packageName": "ler.bloco.de.notas",
+    "developer": {
+        "name": "Darlan",
+        "websiteUrl": "https://www.accenture.com",
+        "privacyUrl": "https://www.accenture.com",
+        "termsOfUseUrl": "https://www.accenture.com"
+    },
+    "icons": [
+        {
+            "src": "https://example.com/icon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "name": {
+        "short": "Nome Curto",
+        "full": "Nome Completo"
+    },
+    "description": {
+        "short": "Descrição Curta",
+        "full": "Descrição Completa"
+    },
+    "capabilities": [
+        {
+            "type": "bot",
+            "contentUrl": "<URL do ponto de extremidade do bot>",
+            "supportsFiles": true,
+            "supportsFilesConsent": true,
+            "requiresIdentity": true
+        }
+    ]
+}
