@@ -28,7 +28,7 @@
     "capabilities": [
         {
             "type": "bot",
-            "contentUrl": "https://39c7ef74c8ebea7eade57a306f41e5.e3.environment.api.powerplatform.com/powervirtualagents/botsbyschema/cr8e5_iAsuporte/directline/token?api-version=2022-03-01-preview",
+            "contentUrl": "https://defaultaed466c0de704cf79e105ea1f9a696.f4.environment.api.powerplatform.com/powervirtualagents/botsbyschema/cr200_iaBahia/directline/token?api-version=2022-03-01-preview",
             "supportsFiles": true,
             "supportsFilesConsent": true,
             "requiresIdentity": true
